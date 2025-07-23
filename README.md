@@ -52,5 +52,10 @@ Performed in **Jupyter Notebook**:
 - Outliers suggest specific high-demand days (possibly holidays or promotions).
 
 ## all result images :
+<img width="933" height="494" alt="two datasetbeing tansformed" src="https://github.com/user-attachments/assets/a89877ed-8a5a-49d2-a800-3e259e5beece" />
 
+<img width="1024" height="1024" alt="Database Schema Visualization" src="https://github.com/user-attachments/assets/3529ee30-b592-447b-9466-64e46d32bd0b" />
 
+<img width="927" height="434" alt="power bi dashaboard" src="https://github.com/user-attachments/assets/55a8d14d-f8b0-4865-b5b5-32a4bdca50e2" />
+
+<img width="1536" height="1024" alt="images of diagrams" src="https://github.com/user-attachments/assets/edbde003-e022-444c-ab13-e175547bc8dd" />
