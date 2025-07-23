@@ -77,13 +77,46 @@ Performed in **Jupyter Notebook**:
 - Outliers suggest specific high-demand days (possibly holidays or promotions).
 
 ---
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-## 📁 Deliverables
+# Load dataset
+df = pd.read_csv("Uber-Jan-Feb-FOIL.csv")
 
-- ✅ Enhanced dataset: `enhanced_uber_fares.csv`
-- ✅ Python script for data cleaning & feature engineering
-- ✅ Power BI dashboard (`.pbix`)
-- ✅ Dashboard screenshots
-- ✅ This README file
+# Convert 'date' column to datetime format
+df['date'] = pd.to_datetime(df['date'])
+
+# Check for missing values
+print(df.isnull().sum())
+
+# Descriptive statistics
+print(df.describe())
+
+# Add new columns
+df['year'] = df['date'].dt.year
+df['month'] = df['date'].dt.month
+df['day'] = df['date'].dt.day
+df['day_of_week'] = df['date'].dt.day_name()
+df['is_peak'] = df['day_of_week'].isin(['Saturday', 'Sunday'])
+
+# Encode base number as numeric
+df['base_encoded'] = df['dispatching_base_number'].astype('category').cat.codes
+
+# Export cleaned data
+df.to_csv("cleaned_uber_fares.csv", index=False)
+
+# Export enhanced data
+df.to_csv("enhanced_uber_fares.csv", index=False)
+
+# Outlier visualization
+plt.figure(figsize=(10, 5))
+sns.boxplot(data=df, x='trips')
+plt.title("Outliers in Trip Count")
+plt.savefig("trip_outliers_boxplot.png")
+plt.show()
+
+
 
 
