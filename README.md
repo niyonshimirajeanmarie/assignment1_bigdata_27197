@@ -23,11 +23,11 @@ Date:24 July 2025
 
 ---
 
-## 🧹 Data Cleaning & Feature Engineering (Python)
+##  Data Cleaning & Feature Engineering (Python)
 
 Performed in **Jupyter Notebook**:
 
-### ✔️ Steps:
+###  Steps:
 1. Converted `date` to datetime format.
 2. Checked and confirmed no missing values.
 3. Generated descriptive statistics (mean, median, mode, standard deviation).
@@ -37,14 +37,14 @@ Performed in **Jupyter Notebook**:
    - `is_peak` : Boolean for weekends
    - `base_encoded` : Numeric encoding of dispatching base
 
-### 📤 Output Files:
+###  Output Files:
 - `cleaned_uber_fares.csv` : Cleaned data
 - `enhanced_uber_fares.csv` : Cleaned + feature engineered data
 
 ---
 
 
-## 🎯 Key Insights
+##  Key Insights
 
 - Weekends (peak days) showed higher trip volumes.
 - Dispatching base B02598 had the most trips.
