@@ -11,14 +11,14 @@ Date:25 July 2025
 
 ## Dataset Information
 
-- Source: [Kaggle - Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
-- File Used: `Uber-Jan-Feb-FOIL.csv`
-- Rows: 354  
-- Columns:
-  - `dispatching_base_number` :Base company dispatching the trips
-  - `date` :Date of trips
-  - `active_vehicles` : Number of vehicles on duty
-  - `trips` : Number of trips completed
+Source: [Kaggle - Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
+ File Used: `Uber-Jan-Feb-FOIL.csv`
+ Rows: 354  
+ Columns:
+`dispatching_base_number` :Base company dispatching the trips
+`date` :Date of trips
+`active_vehicles` : Number of vehicles on duty
+   `trips` : Number of trips completed
 
 ---
 
