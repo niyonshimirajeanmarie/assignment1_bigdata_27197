@@ -59,3 +59,5 @@ Performed in **Jupyter Notebook**:
 <img width="927" height="434" alt="power bi dashaboard" src="https://github.com/user-attachments/assets/55a8d14d-f8b0-4865-b5b5-32a4bdca50e2" />
 
 <img width="1536" height="1024" alt="images of diagrams" src="https://github.com/user-attachments/assets/edbde003-e022-444c-ab13-e175547bc8dd" />
+<img width="1536" height="1024" alt="Uber Trip Insights -  Dashboard" src="https://github.com/user-attachments/assets/4db6798d-f624-4f8f-b621-9d0ca6fa4ac7" />
+
