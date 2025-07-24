@@ -1,4 +1,4 @@
-## Assignment 1 – Big Data Analytics  
+## Assignment 1 – Uber Fares Dataset Analysis using Power BI
 ##  Uber Fares Dataset Analysis – January & February
 
 Name: Niyonshimira Jean Marie  
