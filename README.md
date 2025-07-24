@@ -60,5 +60,5 @@ February had a slight increase in active vehicles.
 
 <img width="1536" height="1024" alt="images of diagrams" src="https://github.com/user-attachments/assets/edbde003-e022-444c-ab13-e175547bc8dd" />
 <img width="1536" height="1024" alt="Uber Trip Insights -  Dashboard" src="https://github.com/user-attachments/assets/4db6798d-f624-4f8f-b621-9d0ca6fa4ac7" />
-## Thank you for visiting MY  work repository!
+ Thank you for visiting MY  work repository!
 
