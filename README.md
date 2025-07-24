@@ -3,6 +3,7 @@
 
 Name: Niyonshimira Jean Marie  
 Student ID: 27197  
+group :A
 Course: INSY 8413 Introduction to Big Data Analytics    
 Instructor: Eric Maniraguha  
 Date:25 July 2025
