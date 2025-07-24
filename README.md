@@ -53,7 +53,7 @@ February had a slight increase in active vehicles.
 <img width="933" height="494" alt="two datasetbeing tansformed" src="https://github.com/user-attachments/assets/a89877ed-8a5a-49d2-a800-3e259e5beece" />
 
 <img width="940" height="1024" alt="Database Schema Visualization" src="https://github.com/user-attachments/assets/3529ee30-b592-447b-9466-64e46d32bd0b" />
-<img width="1000" height="307" alt="image" src="https://github.com/user-attachments/assets/6b53a06e-aae3-44d6-ad44-b839b86f7192" />
+<img width="933" height="307" alt="image" src="https://github.com/user-attachments/assets/6b53a06e-aae3-44d6-ad44-b839b86f7192" />
 
 
 ##
