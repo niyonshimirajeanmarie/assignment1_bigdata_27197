@@ -66,20 +66,25 @@ The cleaned dataset was imported into **Power BI** for visualization and analysi
 ###  Final Power BI Dashboard
 
 
-<img width="1536" height="1024" alt="Uber Trip Insights -  Dashboard" src="https://github.com/user-attachments/assets/5564c060-b60d-4cbd-8018-2e679804aa0a" />
+
+<img width="1536" height="706" alt="final_dash_bord_power_bi_resized" src="https://github.com/user-attachments/assets/b05e0cac-167d-414a-afec-218bb2d917dd" />
+
+
+
 
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrated the use of Python for data cleaning and **Power BI** for visual storytelling, providing key business insights from Uber's operational data.
 
 ---
 
-## 📎 License
+##  License
 
 This project is for academic purposes under **AUCA - INSY 8413** 
+Thank you for visiting our repostory !!
 
 
 
