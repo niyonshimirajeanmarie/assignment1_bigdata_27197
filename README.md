@@ -1,6 +1,6 @@
 #  Uber Fares Dataset Analysis – Power BI Dashboard
 
-Assignment 1 – INSY 8413: Introduction to Big Data 
+## Assignment 1 – INSY 8413: Introduction to Big Data 
 **Name:** Niyonshimira Jean Marie  
 **Student ID:** 27197  
 **Instructor:** Eric Maniraguha  
